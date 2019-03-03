@@ -27,6 +27,8 @@ To run:
     type ls to see resulting language model files in directory
 
     **Please note that the language model for all file will take longer**
+
+
 2.Test each language model
     From command line type:  ./StringProbability <LM#> <sentence to test>
 
