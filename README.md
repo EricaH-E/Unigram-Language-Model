@@ -6,7 +6,7 @@ Program Instructions:
 About:
 ----------------------------------------
     This program is written in c++
-
+    This program is a simple implementaion of the unigram language model
 
 ----------------------------------------
 To compile:
