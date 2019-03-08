@@ -39,6 +39,9 @@ To run:
     ./StringProbability LM2 "This is my sentence"
 
  **Please note probabilities are calculated using log; some probabilities will return a negative result**
+ 
+ 
+ **The following project is a class project following the professors instructions as to  what the program should do when given the files ca and all. The professor gave no instruction on how it should be implemented**
 
 
 
